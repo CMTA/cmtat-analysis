@@ -1,0 +1,48 @@
+[submodule "CMTAT"]
+	path = EVM/CMTAT
+	url = https://github.com/CMTA/CMTAT
+[submodule "Rules"]
+	path = EVM/Rules
+	url = https://github.com/CMTA/Rules
+[submodule "RuleEngine"]
+	path = EVM/RuleEngine
+	url = https://github.com/CMTA/RuleEngine
+[submodule "CMTAT-equivalency-assessment"]
+	path = EVM/CMTAT-equivalency-assessment
+	url = https://github.com/CMTA/CMTAT-equivalency-assessment
+[submodule "CMTAT-Factory"]
+	path = utility/CMTAT-Factory
+	url = https://github.com/CMTA/CMTAT-Factory
+[submodule "CMTAT-v3.0.0"]
+	path = EVM/CMTAT-v3.0.0
+	url = https://github.com/CMTA/CMTAT
+[submodule "IncomeVault"]
+	path = utility/IncomeVault
+	url = https://github.com/CMTA/IncomeVault
+[submodule "SnapshotEngine"]
+	path = utility/SnapshotEngine
+	url = https://github.com/CMTA/SnapshotEngine
+[submodule "confidentiality/private-CMTAT-aztec"]
+	path = confidentiality/private-CMTAT-aztec
+	url = https://github.com/CMTA/private-CMTAT-aztec
+[submodule "confidentiality/CMTAT-Confidential"]
+	path = confidentiality/CMTAT-Confidential
+	url = https://github.com/CMTA/CMTAT-Confidential
+[submodule "confidentiality/CMTAT-Canton"]
+	path = confidentiality/CMTAT-Canton
+	url = https://github.com/CMTA/CMTAT-Canton
+[submodule "CMTAT-EXTEND/CMTAT-FIX"]
+	path = CMTAT-EXTEND/CMTAT-FIX
+	url = https://github.com/CMTA/CMTAT-FIX
+[submodule "CMTAT-EXTEND/CMTAT-ACE"]
+	path = CMTAT-EXTEND/CMTAT-ACE
+	url = https://github.com/CMTA/CMTAT-ACE
+[submodule "blockchain/CMTAT-Cardano"]
+	path = blockchain/CMTAT-Cardano
+	url = https://github.com/CMTA/CMTAT-Cardano
+[submodule "blockchain/CMTAT-Solana"]
+	path = blockchain/CMTAT-Solana
+	url = https://github.com/CMTA/CMTAT-Solana
+[submodule "blockchain/CMTAT-Tezos-FA2"]
+	path = blockchain/CMTAT-Tezos-FA2
+	url = https://github.com/CMTA/CMTAT-Tezos-FA2
