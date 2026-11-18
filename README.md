@@ -37,13 +37,15 @@ Versions are the commit each submodule is pinned to (`git describe --tags`). `vX
 | `CMTAT-EXTEND/CMTAT-ACE` | [CMTA/CMTAT-ACE](https://github.com/CMTA/CMTAT-ACE) | v0.3.0 |
 | `CMTAT-EXTEND/CMTAT-FIX` | [CMTA/CMTAT-FIX](https://github.com/CMTA/CMTAT-FIX) | v0.2.0+2 |
 
-### Utility
+### EVM utility
 
 | Path | Repository | Version |
 | --- | --- | --- |
-| `utility/CMTAT-Factory` | [CMTA/CMTAT-Factory](https://github.com/CMTA/CMTAT-Factory) | v0.5.0 |
-| `utility/IncomeVault` | [CMTA/IncomeVault](https://github.com/CMTA/IncomeVault) | v2.0.0-rc0 |
-| `utility/SnapshotEngine` | [CMTA/SnapshotEngine](https://github.com/CMTA/SnapshotEngine) | v0.5.0 |
+| `EVM/utility/CMTAT-Factory` | [CMTA/CMTAT-Factory](https://github.com/CMTA/CMTAT-Factory) | v0.5.0 |
+| `EVM/utility/DebtEngine` | [CMTA/DebtEngine](https://github.com/CMTA/DebtEngine) | v0.3.0 |
+| `EVM/utility/DocumentEngine` | [CMTA/DocumentEngine](https://github.com/CMTA/DocumentEngine) | v0.4.0 |
+| `EVM/utility/IncomeVault` | [CMTA/IncomeVault](https://github.com/CMTA/IncomeVault) | v2.0.0-rc0 |
+| `EVM/utility/SnapshotEngine` | [CMTA/SnapshotEngine](https://github.com/CMTA/SnapshotEngine) | v0.5.0 |
 
 ### Confidentiality
 
