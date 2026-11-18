@@ -52,3 +52,6 @@
 [submodule "EVM/utility/DocumentEngine"]
 	path = EVM/utility/DocumentEngine
 	url = https://github.com/CMTA/DocumentEngine
+[submodule "EVM/utility/CMTAT-Foundry"]
+	path = EVM/utility/CMTAT-Foundry
+	url = https://github.com/CMTA/CMTAT-Foundry
