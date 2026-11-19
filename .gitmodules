@@ -55,3 +55,15 @@
 [submodule "EVM/utility/CMTAT-Foundry"]
 	path = EVM/utility/CMTAT-Foundry
 	url = https://github.com/CMTA/CMTAT-Foundry
+[submodule "EVM/archive/CMTAT-v3.2.0"]
+	path = EVM/archive/CMTAT-v3.2.0
+	url = https://github.com/CMTA/CMTAT
+[submodule "EVM/archive/CMTAT-v3.1.0"]
+	path = EVM/archive/CMTAT-v3.1.0
+	url = https://github.com/CMTA/CMTAT
+[submodule "EVM/archive/CMTAT-v2.3.0"]
+	path = EVM/archive/CMTAT-v2.3.0
+	url = https://github.com/CMTA/CMTAT
+[submodule "EVM/archive/CMTAT-v1.0"]
+	path = EVM/archive/CMTAT-v1.0
+	url = https://github.com/CMTA/CMTAT

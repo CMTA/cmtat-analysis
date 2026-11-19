@@ -22,13 +22,31 @@ Versions are the commit each submodule is pinned to (`git describe --tags`). `vX
 
 ### EVM
 
+The two main CMTAT releases are:
+
+- `EVM/CMTAT`: **v3.3.0**, the latest release;
+- `EVM/CMTAT-v3.0.0`: **v3.0.0**, the latest audited release (Halborn).
+
+Older releases are kept in `EVM/archive/` for reference only (see below).
+
 | Path | Repository | Version |
 | --- | --- | --- |
-| `EVM/CMTAT` | [CMTA/CMTAT](https://github.com/CMTA/CMTAT) | v3.3.0 |
-| `EVM/CMTAT-v3.0.0` | [CMTA/CMTAT](https://github.com/CMTA/CMTAT) | v3.0.0 |
+| `EVM/CMTAT` | [CMTA/CMTAT](https://github.com/CMTA/CMTAT) | v3.3.0 (latest) |
+| `EVM/CMTAT-v3.0.0` | [CMTA/CMTAT](https://github.com/CMTA/CMTAT) | v3.0.0 (latest audited) |
 | `EVM/RuleEngine` | [CMTA/RuleEngine](https://github.com/CMTA/RuleEngine) | v3.0.0-rc7 |
 | `EVM/Rules` | [CMTA/Rules](https://github.com/CMTA/Rules) | v0.7.0 |
 | `EVM/CMTAT-equivalency-assessment` | [CMTA/CMTAT-equivalency-assessment](https://github.com/CMTA/CMTAT-equivalency-assessment) | v0.3.0+7 |
+
+### EVM archive
+
+Older CMTAT releases, to compare with or trace the history of a behaviour. They are not the main releases: use `EVM/CMTAT` or `EVM/CMTAT-v3.0.0` instead.
+
+| Path | Repository | Version |
+| --- | --- | --- |
+| `EVM/archive/CMTAT-v3.2.0` | [CMTA/CMTAT](https://github.com/CMTA/CMTAT) | v3.2.0 |
+| `EVM/archive/CMTAT-v3.1.0` | [CMTA/CMTAT](https://github.com/CMTA/CMTAT) | v3.1.0 |
+| `EVM/archive/CMTAT-v2.3.0` | [CMTA/CMTAT](https://github.com/CMTA/CMTAT) | v2.3.0 |
+| `EVM/archive/CMTAT-v1.0` | [CMTA/CMTAT](https://github.com/CMTA/CMTAT) | 1.0 |
 
 ### CMTAT-EXTEND
 
